@@ -29,3 +29,5 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+![图](初始图.png)
